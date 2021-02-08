@@ -48,6 +48,8 @@ apt update ; apt install git ; git clone git://github.com/Ign0r3dH4x0r/Shareit_b
 
 ### >>> IF YOU'RE BENEFITED BY THIS TOOL, THEN PLEASE SUPPORT ME.
 
+#### Screenshots
 <p align="center">
-  <img src="https://i.ibb.co/nmRSr42/BLOODY-SS.png" width="500">
+  <a href="https://ibb.co/SwRHfhn"><img src="https://i.ibb.co/23gRZDt/share1.png" alt="Shareit_bash" width="300"></a>
+<a href="https://ibb.co/MDZCJPR"><img src="https://i.ibb.co/hRLmT2K/share2.png" alt="Shareit_bash" width="300"></a>
 </p>
